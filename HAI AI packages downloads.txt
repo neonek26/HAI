@@ -1,0 +1,10 @@
+pip install SpeechRecognition
+pip install pyttsx3
+pip install PyAudio
+pip install pywhatkit
+pip install datetime
+pip install pyjokes
+pip install wikipedia
+pip install numpy 
+pip install pandas
+
