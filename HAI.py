@@ -59,3 +59,15 @@ def run_hai():
 
 while True:
     run_hai()
+    
+// NEDOKONČENO ⇊ ⇊ ⇊ ⇊
+
+def f1():
+    """
+    
+    """
+    pass
+
+if __name__ == "__main__":
+    
+    f1()
